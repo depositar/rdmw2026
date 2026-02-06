@@ -1,0 +1,14 @@
+body:
+  bg: gray-0              # background
+  color: gray-8           # body text
+a:
+  color: blue-8           # links
+  hover: blue-6           # links when hovering
+digit:
+  bg: gray-3              # background of digit on 404 page
+header:
+  bg: teal-2              # background of navigation bar
+index:
+  bg: gray-2              # background of index container
+btn-primary:
+  bg: blue-8

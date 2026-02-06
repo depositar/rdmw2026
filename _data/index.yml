@@ -1,0 +1,14 @@
+alerts:
+  - title: 2026 研究資料管理工作坊
+    text: 將於近日開放報名
+    color: orange-2
+buttons:
+  - text: 議程
+    url: program
+    disabled: false
+  - text: 地點
+    url: location
+    disabled: false
+  - text: 報名
+    url: registration
+    disabled: false

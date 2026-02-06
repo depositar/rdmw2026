@@ -1,0 +1,24 @@
+title: 2026 研究資料管理工作坊
+description: 2026 研究資料管理工作坊
+baseurl: ""
+url: https://2026.odw.tw
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  

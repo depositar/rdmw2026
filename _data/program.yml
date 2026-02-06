@@ -1,0 +1,44 @@
+legend:
+  title: 分類
+  categories:
+    - name: 專題演講主題 1
+      color: blue-6
+    - name: 專題演講主題 2
+      color: red-6
+    - name: 專題演講主題 3
+      color: green-6
+    - name: 長期社會生態研究資料管理實務
+      color: yellow-6
+days:
+  - name: 3/26 (議程均為暫定)
+    events:
+      - time: 9:30 to 9:50
+        title: 報到
+      - time: 9:50 to 10:00
+        title: 致歡迎詞
+        subtitle: 莊庭瑞（中央研究院 資訊科學研究所）
+      - time: 10:00 to 10:30
+        title: 講題 1
+        slides: http://google.com
+        video: http://google.com
+        subtitle: 講者 1
+        category: 專題演講主題 1
+      - time: 10:30 to 10:45
+        title: 休息
+      - time: 10:45 to 12:30
+        title: 長期社會生態研究資料管理實務
+        category: 長期社會生態研究資料管理實務
+      - time: 12:30 to 14:00
+        title: 午餐
+      - time: 14:00 to 15:15
+        title: 講題 2、3
+        subtitle: 講者 2、3
+        category: 專題演講主題 2
+      - time: 15:15 to 15:30
+        title: 休息
+      - time: 15:30 to 16:45
+        title: 講題 4、5、6
+        subtitle: 講者 4、5、6
+        category: 專題演講主題 3
+      - time: 16:45 to 17:00
+        title: 休息
