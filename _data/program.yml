@@ -18,8 +18,6 @@ days:
         title: 致歡迎詞
       - time: 10:00 to 10:30
         title: 講題 1
-        slides: http://google.com
-        video: http://google.com
         subtitle: 講者 1
         category: 專題演講主題 1
       - time: 10:30 to 10:45
