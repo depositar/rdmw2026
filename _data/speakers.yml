@@ -1,4 +1,6 @@
-- name: 講者 1
-  affiliation: 服務單位 1
-  biography: 簡歷
-  img: file.jpg
+- name: Rorie Edmunds
+  affiliation: 
+  biography: Rorie Edmunds is an independent scholar based in Tokyo with 15 years of experience leading and coordinating international initiatives in Research Data Management and infrastructure, scaling communities globally across scientific disciplines. He specializes in community engagement and communications; persistent identifiers (PIDs) and metadata; and promoting Open, FAIR, and trustworthy data practices. Rorie co-led the development of the CoreTrustSeal Certification Standard and is an author of the TRUST Principles for digital repositories. 
+Rorie is currently contracted to the Australian Research Data Commons as the APAC Community and Partnership Specialist for RAiD (the Research Activity identifier). Prior to this, he was Samples Community Manager at DataCite, leading its partnership with the founding organization of the International Generic Sample Number and responsible for driving adoption of PIDs and the development of PID practice standards for material samples. Rorie was Executive Director of ISC’s World Data System from 2018 to 2021.
+Rorie’s research background is highly multidisciplinary. His first degree is Mathematics, and he holds a PhD in Structural Geology.
+  img: Rorie_Headshot.jpg
