@@ -1941,3 +1941,9 @@ svg {
 
 .leaflet-default-icon-path {
   background-image: url(../img/marker-icon.png); }
+
+.banner {
+  min-height: 420px;
+  background-image: url(../img/banner.svg);
+  background-position: top;
+  background-size: cover; }
