@@ -17,54 +17,54 @@ days:
       - time: 9:50 to 10:00
         title: 致歡迎詞
       - time: 10:00 to 11:30
-        title: TBA
+      - title: TBA
         subtitle: Rorie Edmunds 
         category: 專題演講主題 1  
-        title: 臺灣山地雲霧帶長期資料蒐集與管理的挑戰與願景
+      - title: 臺灣山地雲霧帶長期資料蒐集與管理的挑戰與願景
         subtitle: 黃倬英(台灣大學地理環境資源學系/教授)   
         category: 專題演講主題 1
-        title: 原住民族資料主權與臺灣長期社會生態核心觀測
+      - title: 原住民族資料主權與臺灣長期社會生態核心觀測
         subtitle: "Umin•Itei Tanohila: (日宏煜)(國立東華大學民族發展與社會工作學系/副教授)"
         category: 專題演講主題 1
-        title: LTSER 彰化站資料庫現況與挑戰
+      - title: LTSER 彰化站資料庫現況與挑戰
         subtitle: 王素芬(彰化師範大學地理學系/教授)
         category: 專題演講主題 1
       - time: 11:30 to 11:40
         title: 休息
       - time: 11:40 to 13:00
-        title: 長期社會生態研究資料管理實務
+      - title: 長期社會生態研究資料管理實務
         category: 長期社會生態研究資料管理實務
-        title: 西南海岸站自然領域的資料管理及資料網站
+      - title: 西南海岸站自然領域的資料管理及資料網站
         subtitle: 吳靖穎(中山大學海洋科學系/博士後研究員)
         category: 長期社會生態研究資料管理實務
-        title: 資料怎麼管、接下來怎麼走：LTSER 花蓮站的現況與方向
+      - title: 資料怎麼管、接下來怎麼走：LTSER 花蓮站的現況與方向
         subtitle: 呂佳陵(國立東華大學自然資源學系/研究助理)
         category: 長期社會生態研究資料管理實務
-        title: LTSER翡翠站長期環境監測資料管理策略與實務分享
+      - title: LTSER翡翠站長期環境監測資料管理策略與實務分享
         subtitle: 林薇(國立臺灣大學地理學系黃誌川教授 研究計畫專員)
         category: 長期社會生態研究資料管理實務
-        title: LTSER資料標準&資料流
+      - title: LTSER資料標準&資料流
         subtitle: 張筑竣 (TaiBIF 臺灣生物多樣性資訊機構 / 研發工程師)
         category: 長期社會生態研究資料管理實務
       - time: 13:00 to 14:00
         title: 午餐
       - time: 14:00 to 15:15
-        title: 長期社會生態系統研究資料在環境議題的應用
+      - title: 長期社會生態系統研究資料在環境議題的應用
         subtitle: 袁美華（中央研究院環境變遷研究中心/助研究員）
         category: 跨領域研究的資料管理
-        title: 數位民族誌的資料倫理與管理
+      - title: 數位民族誌的資料倫理與管理
         subtitle: 李梅君（中研院民族學研究所 / 助研究員）
         category: 跨領域研究的資料管理
       - time: 15:15 to 15:30
         title: 休息
       - time: 15:30 to 16:45
-        title: 為「混亂」命名：解構名字的管理樣態 
+      - title: 為「混亂」命名：解構名字的管理樣態 
         subtitle: 楊富鈞 (國立臺灣博物館/助理研究員) 
         category: 專題演講主題 4 
-        title: 光影的數位考古：從物件典藏到 TWMDB 的知識轉向
+      - title: 光影的數位考古：從物件典藏到 TWMDB 的知識轉向
         subtitle: 許正欣 (中央研究院數位文化中心/專案經理)
         category: 專題演講主題 4 
-        title:  一個自然史典藏管理平台的嘗試
+      - title:  一個自然史典藏管理平台的嘗試
         subtitle: 李思賢 (中研院生物多樣性研究中心/工程師)
         category: 專題演講主題 4 
       - time: 16:45 to 17:00
