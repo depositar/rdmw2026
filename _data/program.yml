@@ -3,11 +3,11 @@ legend:
   categories:
     - name: 專題演講主題 1
       color: blue-6
-    - name: 專題演講主題 2
+    - name: 長期社會生態研究資料管理實務 
       color: red-6
-    - name: 專題演講主題 3
+    - name: 跨領域研究的資料管理 
       color: green-6
-    - name: 長期社會生態研究資料管理實務
+    - name: 專題演講主題 4 
       color: yellow-6
 days:
   - name: 3/26 (議程均為暫定)
@@ -16,10 +16,13 @@ days:
         title: 報到
       - time: 9:50 to 10:00
         title: 致歡迎詞
-      - time: 10:00 to 10:30
-        title: 講題 1
-        subtitle: 講者 1
-        category: 專題演講主題 1
+      - time: 10:00 to 11:30
+        title: TBA
+        subtitle: Rorie Edmunds 
+        category: 專題演講主題 1  
+        title: 臺灣山地雲霧帶長期資料蒐集與管理的挑戰與願景
+        subtitle: 黃倬英(台灣大學地理環境資源學系/教授)   
+        category: 專題演講主題 1  
       - time: 10:30 to 10:45
         title: 休息
       - time: 10:45 to 12:30
