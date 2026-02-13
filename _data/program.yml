@@ -14,10 +14,11 @@ legend:
 days:
   - name: 3/26 (議程均為暫定)
     events:
-      - time: 9:30 to 9:50
+      - time: 9:30 to 9:45
         title: 報到
-      - time: 9:50 to 10:00
+      - time: 9:45 to 10:00
         title: 致歡迎詞
+        subtitle: 陳伶志（國際科學資料委員會 中華民國委員會 主任委員）
       - time: 10:00 to 11:30
         title: 主持人
         subtitle: TBA  
