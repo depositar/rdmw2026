@@ -3,7 +3,7 @@ legend:
   categories:
     - name: 主題演講
       color: blue-6
-    - name: 長期社會生態研究資料的管理實務
+    - name: 長期社會生態研究的資料管理實務
       color: red-6
     - name: 跨領域研究的資料管理 
       color: green-6
@@ -41,16 +41,16 @@ days:
         subtitle: 王家薰 （中央研究院 資訊科學研究所）
       - title: 西南海岸站自然領域的資料管理及資料網站
         subtitle: 吳靖穎（中山大學 海洋科學系）
-        category: 長期社會生態研究資料的管理實務
+        category: 長期社會生態研究的資料管理實務
       - title: 資料怎麼管、接下來怎麼走：LTSER 花蓮站的現況與方向
         subtitle: 呂佳陵（東華大學 自然資源學系）
-        category: 長期社會生態研究資料的管理實務
+        category: 長期社會生態研究的資料管理實務
       - title: LTSER 翡翠站長期環境監測資料管理策略與實務分享
         subtitle: 林薇（台灣大學 地理環境資源學系）
-        category: 長期社會生態研究資料的管理實務
+        category: 長期社會生態研究的資料管理實務
       - title: LTSER 資料標準&資料流
         subtitle: 張筑竣（中央研究院 生物多樣性研究中心）
-        category: 長期社會生態研究資料的管理實務
+        category: 長期社會生態研究的資料管理實務
       - time: 13:00 to 14:00
         title: 午餐
       - time: 14:00 to 15:15
