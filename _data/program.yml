@@ -24,6 +24,7 @@ days:
         subtitle: 莊庭瑞 (中央研究院 資訊科學研究所)
       - title: "Persistent Identifiers: What are they and should I care about them?"
         subtitle: Rorie Edmunds (Independent Scholar)
+        abstract: "Have you heard about persistent identifiers (PIDs)? What about metadata? Even if you don’t know what PIDs and metadata are or their purpose, there is a good chance you will have encountered them as a researcher. For example, if you have published a research article, the journal will likely have added a Digital Object Identifier (DOI) to your publication that is then included in the citation—something of the form https://doi.org/10.XXXX/XXXXX or doi:10.XXXX/XXXXX.<br><br>You may have even used DOIs or another PID to reference other people’s research work. PIDs and PID metadata are actually at the very foundation of Research Data Management. But, what exactly are PIDs? What different types of PIDs exist? What are they for? Are they really useful to you as a researcher? In my presentation, I will attempt to answer these questions at both basic and more in-depth levels. In doing so, I will highlight some of the practicalities of PIDs using real examples. Whether you are new to the world of PIDs, have some awareness of them, or are knowledgeable about their usage, I hope you will find something of interest to take away."
         category: 主題演講
       - title: 臺灣山地雲霧帶長期資料蒐集與管理的挑戰與願景
         subtitle: 黃倬英（台灣大學 地理環境資源學系）

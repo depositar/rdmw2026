@@ -42,7 +42,19 @@ layout: default
                                     {% assign classes = classes | append: ' mb-4' %}
                                     {% endunless %}
                                     <div class="row col-lg-10 {{ classes }}">
-                                        <h5 class="fw-normal m-0 mb-2">{{ event.title }}</h5>
+                                        <h5 class="fw-normal m-0 mb-2">
+                                            {% if event.abstract %}
+                                            {% assign title = event.title | slugify %}
+                                            <a href="#" data-bs-toggle="collapse" role="button" data-bs-target="#{{ title }}" aria-expanded="false" aria-controls="{{ title }}">{{ event.title }}</a>
+                                            <div id="{{ title }}" class="collapse">
+                                                <div class="card card-body">
+                                                    <p class="fw-light m-0">{{ event.abstract }}</p>
+                                                </div>
+                                            </div>
+                                            {% else %}
+                                                {{ event.title }}
+                                            {% endif %}
+                                        </h5>
                                         <div class="btn-group-md m-0 mb-2" role="group">
                                             {% if event.video_url %}
                                             <a href="{{ event.video_url }}" target="_blank" type="button" class="btn btn-primary fw-normal">錄影</a>
