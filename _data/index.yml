@@ -1,6 +1,6 @@
 alerts:
   - title: "消息:"
-    text: 本活動預計於三月二日對外正式公告並開放報名。
+    text: 
     color: orange-2
 buttons:
   - text: 議程
