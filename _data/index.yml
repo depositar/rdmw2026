@@ -1,7 +1,4 @@
 alerts:
-  - title: "消息:"
-    text: 
-    color: orange-2
 buttons:
   - text: 議程
     url: program
