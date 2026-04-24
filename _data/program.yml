@@ -25,6 +25,7 @@ days:
       - title: "Persistent Identifiers: What are they and should I care about them?"
         subtitle: Rorie Edmunds (Independent Scholar)
         abstract: "Have you heard about persistent identifiers (PIDs)? What about metadata? Even if you don’t know what PIDs and metadata are or their purpose, there is a good chance you will have encountered them as a researcher. For example, if you have published a research article, the journal will likely have added a Digital Object Identifier (DOI) to your publication that is then included in the citation—something of the form https://doi.org/10.XXXX/XXXXX or doi:10.XXXX/XXXXX.<br><br>You may have even used DOIs or another PID to reference other people’s research work. PIDs and PID metadata are actually at the very foundation of Research Data Management. But, what exactly are PIDs? What different types of PIDs exist? What are they for? Are they really useful to you as a researcher? In my presentation, I will attempt to answer these questions at both basic and more in-depth levels. In doing so, I will highlight some of the practicalities of PIDs using real examples. Whether you are new to the world of PIDs, have some awareness of them, or are knowledgeable about their usage, I hope you will find something of interest to take away."
+        slides_url: https://data.depositar.io/en/dataset/rdmw2026-s1-1/resource/3ec9afd5-241c-4a9a-8403-682b68dbc6a5 
         category: 主題演講
       - title: 臺灣山地雲霧帶長期資料蒐集與管理的挑戰與願景
         subtitle: 黃倬英（台灣大學 地理環境資源學系）
@@ -33,9 +34,11 @@ days:
         category: 主題演講
       - title: 原住民族資料主權與臺灣長期社會生態核心觀測
         subtitle: "Umin•Itei Tanohila（日宏煜）（東華大學 民族發展與社會工作學系）"
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s1-3/resource/555fa44d-58b4-44e2-8e7d-2b801ce7135b
         category: 主題演講
       - title: LTSER 彰化站資料庫現況與挑戰
         subtitle: 王素芬（彰化師範大學 地理學系）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s1-4/resource/e0fede10-7650-4417-a590-8c10378bcdb4 
         category: 主題演講
       - time: 11:30 to 11:40
         title: 休息
@@ -44,15 +47,20 @@ days:
         subtitle: 王家薰（中央研究院 資訊科學研究所）
       - title: 西南海岸站自然領域的資料管理及資料網站
         subtitle: 吳靖穎（中山大學 海洋科學系）、曹千祐 (台灣大學 網路資訊與多媒體研究所)
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s2-1/resource/e9c91f86-c69e-40e5-a2ee-4a3c1ad17716 
         category: 長期社會生態研究的資料管理實務
       - title: 資料怎麼管、接下來怎麼走：LTSER 花蓮站的現況與方向
         subtitle: 呂佳陵（東華大學 自然資源與環境學系）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s2-2/resource/7a0fef6b-472e-456e-aba5-adb14c9520af
         category: 長期社會生態研究的資料管理實務
       - title: LTSER 翡翠站長期環境監測資料管理策略與實務分享
         subtitle: 林薇（台灣大學 地理環境資源學系）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s2-3/resource/2b6849a9-b704-4875-a61f-dbb46eabfb24 
         category: 長期社會生態研究的資料管理實務
       - title: LTSER 資料標準&資料流
         subtitle: 張筑竣（中央研究院 生物多樣性研究中心）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s2-4/resource/741c6f91-ed99-448d-8af6-ebf1ff68aa9b
+        video_url: https://youtu.be/lM74j3zr8yA?si=IuKT6qe46liCci8q
         category: 長期社會生態研究的資料管理實務
       - time: 13:00 to 14:00
         title: 午餐
@@ -61,9 +69,12 @@ days:
         subtitle: 林登秋（台灣師範大學 生命科學系）
       - title: 長期社會生態系統研究資料在環境議題的應用
         subtitle: 袁美華（中央研究院 環境變遷研究中心）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s3-1/resource/27547b85-12de-4b83-8cd4-7a68a5bb90f4 
+        video_url: https://youtu.be/pj-R5KlSNI8?si=NPiYLr9bohvJ8zoG
         category: 跨領域研究的資料管理
       - title: 數位民族誌的資料倫理與管理
         subtitle: 李梅君（中央研究院 民族學研究所）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s3-2/resource/aa666998-5d84-47ec-8c3a-db5f896cdae7 
         category: 跨領域研究的資料管理
       - time: 15:15 to 15:30
         title: 休息
@@ -72,12 +83,18 @@ days:
         subtitle: 端木茂甯 (中央研究院 生物多樣性研究中心)
       - title: 為「混亂」命名：解構名字的管理樣態 
         subtitle: 楊富鈞（國立臺灣博物館）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s4-1/resource/9155b69f-46b7-46c7-b5ac-e86db8e19219
+        video_url: https://youtu.be/q5lrtj7fQSc?si=wsx-WGaYUkzDHF0c        
         category: 資料典藏、取用、與呈現
       - title:  一個自然史典藏管理平台的嘗試
         subtitle: 李思賢（中央研究院 生物多樣性研究中心）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s4-2/resource/1825e520-36f8-4c44-8a6e-cd58104bc87a 
+        video_url: https://youtu.be/09-E4tq6L-U?si=uOhL3J48GyIxD4uE        
         category: 資料典藏、取用、與呈現          
       - title: 光影的數位考古：從物件典藏到 TWMDb 的知識轉向
         subtitle: 許正欣（中央研究院 數位文化中心）
+        slides_url: https://data.depositar.io/dataset/rdmw2026-s4-3/resource/7730486c-3357-479c-8baf-662c0da102ad
+        video_url: https://youtu.be/zA0bwRknFZ8?si=YoXfz1s5y85E8H29          
         category: 資料典藏、取用、與呈現
       - time: 16:45 to 17:00
         title: 休息
