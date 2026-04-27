@@ -35,10 +35,12 @@ days:
       - title: 原住民族資料主權與臺灣長期社會生態核心觀測
         subtitle: "Umin•Itei Tanohila（日宏煜）（東華大學 民族發展與社會工作學系）"
         slides_url: https://data.depositar.io/dataset/rdmw2026-s1-3/resource/555fa44d-58b4-44e2-8e7d-2b801ce7135b
+        video_url: https://youtu.be/69QtSxnQg40?si=D6AcbU7EwVvRUUtn
         category: 主題演講
       - title: LTSER 彰化站資料庫現況與挑戰
         subtitle: 王素芬（彰化師範大學 地理學系）
         slides_url: https://data.depositar.io/dataset/rdmw2026-s1-4/resource/e0fede10-7650-4417-a590-8c10378bcdb4 
+        video_url: https://youtu.be/ZUVzJY9vq8s?si=-yUbmaVuP2zAA2Me
         category: 主題演講
       - time: 11:30 to 11:40
         title: 休息
@@ -48,10 +50,12 @@ days:
       - title: 西南海岸站自然領域的資料管理及資料網站
         subtitle: 吳靖穎（中山大學 海洋科學系）、曹千祐 (台灣大學 網路資訊與多媒體研究所)
         slides_url: https://data.depositar.io/dataset/rdmw2026-s2-1/resource/e9c91f86-c69e-40e5-a2ee-4a3c1ad17716 
+        video_url: https://youtu.be/I6XFZzF7-qU?si=yuk1dN5etLumNMef
         category: 長期社會生態研究的資料管理實務
       - title: 資料怎麼管、接下來怎麼走：LTSER 花蓮站的現況與方向
         subtitle: 呂佳陵（東華大學 自然資源與環境學系）
         slides_url: https://data.depositar.io/dataset/rdmw2026-s2-2/resource/7a0fef6b-472e-456e-aba5-adb14c9520af
+        video_url: https://youtu.be/zTSRD_5MjAQ?si=Qj5cDjGueDcVJHMi
         category: 長期社會生態研究的資料管理實務
       - title: LTSER 翡翠站長期環境監測資料管理策略與實務分享
         subtitle: 林薇（台灣大學 地理環境資源學系）
@@ -75,6 +79,7 @@ days:
       - title: 數位民族誌的資料倫理與管理
         subtitle: 李梅君（中央研究院 民族學研究所）
         slides_url: https://data.depositar.io/dataset/rdmw2026-s3-2/resource/aa666998-5d84-47ec-8c3a-db5f896cdae7 
+        video_url: https://youtu.be/sfjIgmoMSX8?si=I_I9s0Ko7nJ5raVt
         category: 跨領域研究的資料管理
       - time: 15:15 to 15:30
         title: 休息
